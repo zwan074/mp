@@ -1,0 +1,652 @@
+[2021-02-10 13:30:04,007] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 13:30:04,007] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold0.model" file not found. skip to pretrain weights...
+[2021-02-10 13:30:04,007] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 13:35:09,936] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3552 top1=0.5627 [valid] loss=1.2062 top1=0.5733 [test] loss=0.9166 top1=0.6821 
+[2021-02-10 13:35:09,936] [Fast AutoAugment] [INFO] save model@5 to D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold0.model, err=1.0000
+[2021-02-10 13:35:20,964] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 13:35:20,964] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold1.model" file not found. skip to pretrain weights...
+[2021-02-10 13:35:20,964] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 13:39:59,270] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3703 top1=0.5625 [valid] loss=1.1905 top1=0.5766 [test] loss=0.9000 top1=0.6887 
+[2021-02-10 13:39:59,270] [Fast AutoAugment] [INFO] save model@5 to D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold1.model, err=1.0000
+[2021-02-10 13:40:07,464] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 13:40:07,465] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold2.model" file not found. skip to pretrain weights...
+[2021-02-10 13:40:07,465] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 13:44:43,943] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3501 top1=0.5661 [valid] loss=1.2071 top1=0.5727 [test] loss=0.9480 top1=0.6703 
+[2021-02-10 13:44:43,943] [Fast AutoAugment] [INFO] save model@5 to D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold2.model, err=1.0000
+[2021-02-10 13:44:54,720] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 13:44:54,720] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold3.model" file not found. skip to pretrain weights...
+[2021-02-10 13:44:54,720] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 13:49:31,702] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3394 top1=0.5710 [valid] loss=1.2375 top1=0.5661 [test] loss=1.0035 top1=0.6704 
+[2021-02-10 13:49:31,702] [Fast AutoAugment] [INFO] save model@5 to D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold3.model, err=1.0000
+[2021-02-10 13:49:42,589] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 13:49:42,589] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold4.model" file not found. skip to pretrain weights...
+[2021-02-10 13:49:42,589] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 13:54:18,565] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3533 top1=0.5660 [valid] loss=1.1753 top1=0.5853 [test] loss=0.9007 top1=0.6847 
+[2021-02-10 13:54:18,565] [Fast AutoAugment] [INFO] save model@5 to D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models/cifar10_wresnet40_2_ratio0.4_fold4.model, err=1.0000
+[2021-02-10 13:57:47,181] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 13:57:47,181] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models\cifar10_wresnet40_2_ratio0.4_fold0.model" file not found. skip to pretrain weights...
+[2021-02-10 13:57:47,182] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 14:02:27,816] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3594 top1=0.5668 [valid] loss=1.3417 top1=0.5278 [test] loss=1.1491 top1=0.6167 
+[2021-02-10 14:02:27,816] [Fast AutoAugment] [INFO] save model@5 to D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models\cifar10_wresnet40_2_ratio0.4_fold0.model, err=1.0000
+[2021-02-10 14:02:38,626] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 14:02:38,626] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models\cifar10_wresnet40_2_ratio0.4_fold1.model" file not found. skip to pretrain weights...
+[2021-02-10 14:02:38,626] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 14:06:12,982] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 14:06:12,982] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models\cifar10_wresnet40_2.model" file not found. skip to pretrain weights...
+[2021-02-10 14:06:12,982] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 14:09:04,823] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 14:09:04,823] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models\cifar10_wresnet40_2_4_fold0.model" file not found. skip to pretrain weights...
+[2021-02-10 14:09:04,823] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 14:13:41,351] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3900 top1=0.5545 [valid] loss=1.2011 top1=0.5753 [test] loss=0.9079 top1=0.6829 
+[2021-02-10 14:13:41,351] [Fast AutoAugment] [INFO] save model@5 to D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models\cifar10_wresnet40_2_4_fold0.model, err=1.0000
+[2021-02-10 14:13:52,514] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 14:13:52,514] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\models\cifar10_wresnet40_2_4_fold1.model" file not found. skip to pretrain weights...
+[2021-02-10 14:13:52,514] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 14:24:24,555] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 14:24:24,555] [Fast AutoAugment] [INFO] "D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\cifar10_wresnet40_2_4_fold0.model" file not found. skip to pretrain weights...
+[2021-02-10 14:24:24,555] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 14:29:02,238] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3648 top1=0.5597 [valid] loss=1.2311 top1=0.5733 [test] loss=0.9610 top1=0.6675 
+[2021-02-10 14:29:02,238] [Fast AutoAugment] [INFO] save model@5 to D:\CS\Master Project\Augmentation\fast-autoaugment-master\FastAutoAugment\cifar10_wresnet40_2_4_fold0.model, err=1.0000
+[2021-02-10 14:33:26,650] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 14:33:26,650] [Fast AutoAugment] [INFO] "models/cifar10wresnet40_2fold0" file not found. skip to pretrain weights...
+[2021-02-10 14:33:26,650] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-10 14:38:04,782] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3763 top1=0.5601 [valid] loss=1.2140 top1=0.5693 [test] loss=0.9293 top1=0.6737 
+[2021-02-10 14:38:04,782] [Fast AutoAugment] [INFO] save model@5 to models/cifar10wresnet40_2fold0, err=1.0000
+[2021-02-11 08:33:11,307] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 08:33:11,317] [Fast AutoAugment] [INFO] "models/cifar10wresnet40_2ratio0.4_fold0.model" file not found. skip to pretrain weights...
+[2021-02-11 08:33:11,318] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-11 08:38:09,828] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3555 top1=0.5639 [valid] loss=1.2033 top1=0.5761 [test] loss=0.9613 top1=0.6751 
+[2021-02-11 08:38:09,828] [Fast AutoAugment] [INFO] save model@5 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 08:42:51,775] [Fast AutoAugment] [INFO] epoch=10 [train] loss=1.0796 top1=0.6802 [valid] loss=0.9072 top1=0.6850 [test] loss=0.6298 top1=0.7870 
+[2021-02-11 08:42:51,775] [Fast AutoAugment] [INFO] save model@10 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 08:47:45,581] [Fast AutoAugment] [INFO] epoch=15 [train] loss=0.9954 top1=0.7166 [valid] loss=0.8322 top1=0.7093 [test] loss=0.5665 top1=0.8089 
+[2021-02-11 08:47:45,581] [Fast AutoAugment] [INFO] save model@15 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 08:52:47,835] [Fast AutoAugment] [INFO] epoch=20 [train] loss=0.9398 top1=0.7473 [valid] loss=0.7567 top1=0.7342 [test] loss=0.4835 top1=0.8327 
+[2021-02-11 08:52:47,835] [Fast AutoAugment] [INFO] save model@20 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 08:57:54,150] [Fast AutoAugment] [INFO] epoch=25 [train] loss=0.9044 top1=0.7625 [valid] loss=0.7373 top1=0.7440 [test] loss=0.4419 top1=0.8523 
+[2021-02-11 08:57:54,150] [Fast AutoAugment] [INFO] save model@25 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:02:47,358] [Fast AutoAugment] [INFO] epoch=30 [train] loss=0.8737 top1=0.7785 [valid] loss=0.6942 top1=0.7620 [test] loss=0.4085 top1=0.8639 
+[2021-02-11 09:02:47,358] [Fast AutoAugment] [INFO] save model@30 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:07:23,395] [Fast AutoAugment] [INFO] epoch=35 [train] loss=0.8565 top1=0.7858 [valid] loss=0.6954 top1=0.7591 [test] loss=0.4112 top1=0.8656 
+[2021-02-11 09:07:23,395] [Fast AutoAugment] [INFO] save model@35 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:11:58,815] [Fast AutoAugment] [INFO] epoch=40 [train] loss=0.8350 top1=0.7984 [valid] loss=0.6579 top1=0.7732 [test] loss=0.3809 top1=0.8691 
+[2021-02-11 09:11:58,815] [Fast AutoAugment] [INFO] save model@40 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:16:44,817] [Fast AutoAugment] [INFO] epoch=45 [train] loss=0.8224 top1=0.8040 [valid] loss=0.6099 top1=0.7883 [test] loss=0.3389 top1=0.8886 
+[2021-02-11 09:16:44,817] [Fast AutoAugment] [INFO] save model@45 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:22:01,432] [Fast AutoAugment] [INFO] epoch=50 [train] loss=0.8100 top1=0.8080 [valid] loss=0.6045 top1=0.7913 [test] loss=0.3318 top1=0.8894 
+[2021-02-11 09:22:01,432] [Fast AutoAugment] [INFO] save model@50 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:26:50,663] [Fast AutoAugment] [INFO] epoch=55 [train] loss=0.7943 top1=0.8150 [valid] loss=0.5836 top1=0.8004 [test] loss=0.3191 top1=0.8934 
+[2021-02-11 09:26:50,663] [Fast AutoAugment] [INFO] save model@55 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:31:36,472] [Fast AutoAugment] [INFO] epoch=60 [train] loss=0.7873 top1=0.8196 [valid] loss=0.5609 top1=0.8083 [test] loss=0.3070 top1=0.9001 
+[2021-02-11 09:31:36,472] [Fast AutoAugment] [INFO] save model@60 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:36:43,000] [Fast AutoAugment] [INFO] epoch=65 [train] loss=0.7720 top1=0.8247 [valid] loss=0.5617 top1=0.8079 [test] loss=0.3274 top1=0.8903 
+[2021-02-11 09:36:43,000] [Fast AutoAugment] [INFO] save model@65 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:41:23,182] [Fast AutoAugment] [INFO] epoch=70 [train] loss=0.7505 top1=0.8321 [valid] loss=0.5698 top1=0.8051 [test] loss=0.2975 top1=0.9021 
+[2021-02-11 09:41:23,182] [Fast AutoAugment] [INFO] save model@70 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:46:02,605] [Fast AutoAugment] [INFO] epoch=75 [train] loss=0.7450 top1=0.8366 [valid] loss=0.5506 top1=0.8137 [test] loss=0.2964 top1=0.9021 
+[2021-02-11 09:46:02,605] [Fast AutoAugment] [INFO] save model@75 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:50:43,311] [Fast AutoAugment] [INFO] epoch=80 [train] loss=0.7263 top1=0.8406 [valid] loss=0.5456 top1=0.8119 [test] loss=0.2979 top1=0.9039 
+[2021-02-11 09:50:43,312] [Fast AutoAugment] [INFO] save model@80 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 09:55:29,210] [Fast AutoAugment] [INFO] epoch=85 [train] loss=0.7141 top1=0.8441 [valid] loss=0.5385 top1=0.8165 [test] loss=0.2793 top1=0.9068 
+[2021-02-11 09:55:29,210] [Fast AutoAugment] [INFO] save model@85 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:00:17,450] [Fast AutoAugment] [INFO] epoch=90 [train] loss=0.6973 top1=0.8483 [valid] loss=0.5238 top1=0.8195 [test] loss=0.2801 top1=0.9037 
+[2021-02-11 10:00:17,451] [Fast AutoAugment] [INFO] save model@90 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:04:57,603] [Fast AutoAugment] [INFO] epoch=95 [train] loss=0.6810 top1=0.8553 [valid] loss=0.4929 top1=0.8299 [test] loss=0.2569 top1=0.9141 
+[2021-02-11 10:04:57,603] [Fast AutoAugment] [INFO] save model@95 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:09:37,120] [Fast AutoAugment] [INFO] epoch=100 [train] loss=0.6588 top1=0.8614 [valid] loss=0.4998 top1=0.8302 [test] loss=0.2699 top1=0.9116 
+[2021-02-11 10:09:37,120] [Fast AutoAugment] [INFO] save model@100 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:14:13,301] [Fast AutoAugment] [INFO] epoch=105 [train] loss=0.6496 top1=0.8646 [valid] loss=0.4627 top1=0.8398 [test] loss=0.2293 top1=0.9211 
+[2021-02-11 10:14:13,301] [Fast AutoAugment] [INFO] save model@105 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:18:50,565] [Fast AutoAugment] [INFO] epoch=110 [train] loss=0.6307 top1=0.8681 [valid] loss=0.4890 top1=0.8331 [test] loss=0.2618 top1=0.9156 
+[2021-02-11 10:18:50,565] [Fast AutoAugment] [INFO] save model@110 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:23:26,099] [Fast AutoAugment] [INFO] epoch=115 [train] loss=0.6116 top1=0.8743 [valid] loss=0.4940 top1=0.8327 [test] loss=0.2586 top1=0.9156 
+[2021-02-11 10:23:26,099] [Fast AutoAugment] [INFO] save model@115 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:28:01,975] [Fast AutoAugment] [INFO] epoch=120 [train] loss=0.5903 top1=0.8795 [valid] loss=0.4403 top1=0.8505 [test] loss=0.2326 top1=0.9235 
+[2021-02-11 10:28:01,975] [Fast AutoAugment] [INFO] save model@120 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:32:37,514] [Fast AutoAugment] [INFO] epoch=125 [train] loss=0.5693 top1=0.8832 [valid] loss=0.4518 top1=0.8450 [test] loss=0.2351 top1=0.9220 
+[2021-02-11 10:32:37,514] [Fast AutoAugment] [INFO] save model@125 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:37:13,281] [Fast AutoAugment] [INFO] epoch=130 [train] loss=0.5439 top1=0.8911 [valid] loss=0.4427 top1=0.8497 [test] loss=0.2431 top1=0.9243 
+[2021-02-11 10:37:13,281] [Fast AutoAugment] [INFO] save model@130 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:41:48,957] [Fast AutoAugment] [INFO] epoch=135 [train] loss=0.5263 top1=0.8965 [valid] loss=0.4199 top1=0.8605 [test] loss=0.2172 top1=0.9317 
+[2021-02-11 10:41:48,957] [Fast AutoAugment] [INFO] save model@135 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:46:24,615] [Fast AutoAugment] [INFO] epoch=140 [train] loss=0.5153 top1=0.8979 [valid] loss=0.4089 top1=0.8639 [test] loss=0.2059 top1=0.9371 
+[2021-02-11 10:46:24,615] [Fast AutoAugment] [INFO] save model@140 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:51:00,466] [Fast AutoAugment] [INFO] epoch=145 [train] loss=0.4749 top1=0.9116 [valid] loss=0.3996 top1=0.8679 [test] loss=0.2011 top1=0.9398 
+[2021-02-11 10:51:00,467] [Fast AutoAugment] [INFO] save model@145 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 10:55:36,096] [Fast AutoAugment] [INFO] epoch=150 [train] loss=0.4568 top1=0.9161 [valid] loss=0.3887 top1=0.8710 [test] loss=0.2032 top1=0.9380 
+[2021-02-11 10:55:36,096] [Fast AutoAugment] [INFO] save model@150 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:00:11,820] [Fast AutoAugment] [INFO] epoch=155 [train] loss=0.4294 top1=0.9220 [valid] loss=0.3916 top1=0.8724 [test] loss=0.1898 top1=0.9416 
+[2021-02-11 11:00:11,821] [Fast AutoAugment] [INFO] save model@155 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:04:47,995] [Fast AutoAugment] [INFO] epoch=160 [train] loss=0.4104 top1=0.9275 [valid] loss=0.3810 top1=0.8751 [test] loss=0.2080 top1=0.9403 
+[2021-02-11 11:04:47,996] [Fast AutoAugment] [INFO] save model@160 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:09:23,886] [Fast AutoAugment] [INFO] epoch=165 [train] loss=0.3891 top1=0.9328 [valid] loss=0.3647 top1=0.8813 [test] loss=0.1939 top1=0.9452 
+[2021-02-11 11:09:23,886] [Fast AutoAugment] [INFO] save model@165 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:13:59,663] [Fast AutoAugment] [INFO] epoch=170 [train] loss=0.3734 top1=0.9371 [valid] loss=0.3714 top1=0.8804 [test] loss=0.2104 top1=0.9408 
+[2021-02-11 11:13:59,663] [Fast AutoAugment] [INFO] save model@170 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:18:40,408] [Fast AutoAugment] [INFO] epoch=175 [train] loss=0.3562 top1=0.9427 [valid] loss=0.3660 top1=0.8807 [test] loss=0.1988 top1=0.9447 
+[2021-02-11 11:18:40,408] [Fast AutoAugment] [INFO] save model@175 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:23:23,019] [Fast AutoAugment] [INFO] epoch=180 [train] loss=0.3416 top1=0.9462 [valid] loss=0.3417 top1=0.8889 [test] loss=0.1914 top1=0.9475 
+[2021-02-11 11:23:23,019] [Fast AutoAugment] [INFO] save model@180 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:28:10,705] [Fast AutoAugment] [INFO] epoch=185 [train] loss=0.3279 top1=0.9515 [valid] loss=0.3336 top1=0.8911 [test] loss=0.1770 top1=0.9496 
+[2021-02-11 11:28:10,705] [Fast AutoAugment] [INFO] save model@185 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:33:05,077] [Fast AutoAugment] [INFO] epoch=190 [train] loss=0.3252 top1=0.9506 [valid] loss=0.3391 top1=0.8916 [test] loss=0.1862 top1=0.9494 
+[2021-02-11 11:33:05,077] [Fast AutoAugment] [INFO] save model@190 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:38:03,611] [Fast AutoAugment] [INFO] epoch=195 [train] loss=0.3157 top1=0.9529 [valid] loss=0.3455 top1=0.8893 [test] loss=0.1857 top1=0.9488 
+[2021-02-11 11:38:03,611] [Fast AutoAugment] [INFO] save model@195 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:43:07,932] [Fast AutoAugment] [INFO] epoch=200 [train] loss=0.3186 top1=0.9528 [valid] loss=0.3349 top1=0.8924 [test] loss=0.1863 top1=0.9488 
+[2021-02-11 11:43:07,933] [Fast AutoAugment] [INFO] save model@200 to models/cifar10wresnet40_2ratio0.4_fold0.model, err=1.0000
+[2021-02-11 11:43:20,057] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 11:43:20,058] [Fast AutoAugment] [INFO] "models/cifar10wresnet40_2ratio0.4_fold1.model" file not found. skip to pretrain weights...
+[2021-02-11 11:43:20,058] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-11 11:48:27,029] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3576 top1=0.5633 [valid] loss=1.2382 top1=0.5648 [test] loss=0.9921 top1=0.6550 
+[2021-02-11 11:48:27,029] [Fast AutoAugment] [INFO] save model@5 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 11:53:33,629] [Fast AutoAugment] [INFO] epoch=10 [train] loss=1.0873 top1=0.6808 [valid] loss=0.9707 top1=0.6584 [test] loss=0.6731 top1=0.7666 
+[2021-02-11 11:53:33,629] [Fast AutoAugment] [INFO] save model@10 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 11:58:32,262] [Fast AutoAugment] [INFO] epoch=15 [train] loss=0.9994 top1=0.7173 [valid] loss=0.8052 top1=0.7189 [test] loss=0.5471 top1=0.8141 
+[2021-02-11 11:58:32,262] [Fast AutoAugment] [INFO] save model@15 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:03:26,313] [Fast AutoAugment] [INFO] epoch=20 [train] loss=0.9341 top1=0.7493 [valid] loss=0.7825 top1=0.7268 [test] loss=0.5078 top1=0.8241 
+[2021-02-11 12:03:26,313] [Fast AutoAugment] [INFO] save model@20 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:08:27,407] [Fast AutoAugment] [INFO] epoch=25 [train] loss=0.9115 top1=0.7592 [valid] loss=0.7421 top1=0.7428 [test] loss=0.4576 top1=0.8461 
+[2021-02-11 12:08:27,407] [Fast AutoAugment] [INFO] save model@25 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:13:18,908] [Fast AutoAugment] [INFO] epoch=30 [train] loss=0.8893 top1=0.7710 [valid] loss=0.6980 top1=0.7604 [test] loss=0.4213 top1=0.8602 
+[2021-02-11 12:13:18,909] [Fast AutoAugment] [INFO] save model@30 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:18:37,927] [Fast AutoAugment] [INFO] epoch=35 [train] loss=0.8522 top1=0.7892 [valid] loss=0.6646 top1=0.7674 [test] loss=0.3832 top1=0.8730 
+[2021-02-11 12:18:37,928] [Fast AutoAugment] [INFO] save model@35 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:23:56,839] [Fast AutoAugment] [INFO] epoch=40 [train] loss=0.8415 top1=0.7930 [valid] loss=0.6623 top1=0.7689 [test] loss=0.3677 top1=0.8776 
+[2021-02-11 12:23:56,840] [Fast AutoAugment] [INFO] save model@40 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:29:19,534] [Fast AutoAugment] [INFO] epoch=45 [train] loss=0.8256 top1=0.8030 [valid] loss=0.6499 top1=0.7749 [test] loss=0.3709 top1=0.8769 
+[2021-02-11 12:29:19,535] [Fast AutoAugment] [INFO] save model@45 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:34:40,404] [Fast AutoAugment] [INFO] epoch=50 [train] loss=0.8162 top1=0.8052 [valid] loss=0.6371 top1=0.7798 [test] loss=0.3769 top1=0.8759 
+[2021-02-11 12:34:40,404] [Fast AutoAugment] [INFO] save model@50 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:39:16,811] [Fast AutoAugment] [INFO] epoch=55 [train] loss=0.7951 top1=0.8156 [valid] loss=0.6001 top1=0.7946 [test] loss=0.3462 top1=0.8847 
+[2021-02-11 12:39:16,811] [Fast AutoAugment] [INFO] save model@55 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:43:53,127] [Fast AutoAugment] [INFO] epoch=60 [train] loss=0.7793 top1=0.8245 [valid] loss=0.5731 top1=0.8004 [test] loss=0.3106 top1=0.8970 
+[2021-02-11 12:43:53,128] [Fast AutoAugment] [INFO] save model@60 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:49:12,389] [Fast AutoAugment] [INFO] epoch=65 [train] loss=0.7744 top1=0.8252 [valid] loss=0.5899 top1=0.7929 [test] loss=0.3427 top1=0.8869 
+[2021-02-11 12:49:12,389] [Fast AutoAugment] [INFO] save model@65 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 12:50:10,765] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 12:50:10,765] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-11 12:50:10,856] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-11 12:50:10,866] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 12:50:10,880] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 12:51:09,278] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 12:51:09,279] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-11 12:51:09,363] [Fast AutoAugment] [INFO] checkpoint epoch@65
+[2021-02-11 12:51:09,373] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 12:51:09,386] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 12:52:07,017] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 12:52:07,018] [Fast AutoAugment] [INFO] "models/cifar10wresnet40_2ratio0.4_fold2.model" file not found. skip to pretrain weights...
+[2021-02-11 12:52:07,018] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-11 12:57:26,796] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3703 top1=0.5578 [valid] loss=1.1676 top1=0.5826 [test] loss=0.8820 top1=0.6834 
+[2021-02-11 12:57:26,797] [Fast AutoAugment] [INFO] save model@5 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 12:59:40,589] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 12:59:40,589] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-11 12:59:40,683] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-11 12:59:40,692] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 12:59:40,705] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:00:38,586] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:00:38,587] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-11 13:00:38,692] [Fast AutoAugment] [INFO] checkpoint epoch@65
+[2021-02-11 13:00:38,705] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:00:38,720] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:01:35,034] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:01:35,035] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold2.model file found. loading...
+[2021-02-11 13:01:35,132] [Fast AutoAugment] [INFO] checkpoint epoch@5
+[2021-02-11 13:01:35,145] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:01:35,164] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:02:34,656] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:02:34,656] [Fast AutoAugment] [INFO] "models/cifar10wresnet40_2ratio0.4_fold3.model" file not found. skip to pretrain weights...
+[2021-02-11 13:02:34,656] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
+[2021-02-11 13:07:33,489] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:07:33,490] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-11 13:07:33,574] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-11 13:07:33,583] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:07:33,598] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:08:30,691] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:08:30,692] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-11 13:08:30,787] [Fast AutoAugment] [INFO] checkpoint epoch@65
+[2021-02-11 13:08:30,796] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:08:30,812] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:09:58,692] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:09:58,692] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-11 13:09:58,783] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-11 13:09:58,792] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:09:58,809] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:10:55,819] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:10:55,819] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-11 13:10:55,910] [Fast AutoAugment] [INFO] checkpoint epoch@65
+[2021-02-11 13:10:55,921] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:10:55,934] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:12:56,468] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:12:56,468] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-11 13:12:56,557] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-11 13:12:56,566] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:12:56,581] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:13:53,988] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:13:53,989] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-11 13:13:54,090] [Fast AutoAugment] [INFO] checkpoint epoch@65
+[2021-02-11 13:13:54,101] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:13:54,115] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:31:30,306] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:31:30,328] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-11 13:31:31,000] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-11 13:31:31,044] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:31:31,118] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 13:32:40,831] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 13:32:40,831] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-11 13:32:40,918] [Fast AutoAugment] [INFO] checkpoint epoch@65
+[2021-02-11 13:32:40,929] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 13:34:06,251] [Fast AutoAugment] [INFO] epoch=65 [train] loss=0.7650 top1=0.8277 [valid] loss=0.5578 top1=0.8077 [test] loss=0.2967 top1=0.8992 
+[2021-02-11 13:34:06,251] [Fast AutoAugment] [INFO] save model@65 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 13:39:29,460] [Fast AutoAugment] [INFO] epoch=70 [train] loss=0.7489 top1=0.8326 [valid] loss=0.5430 top1=0.8105 [test] loss=0.2979 top1=0.9014 
+[2021-02-11 13:39:29,460] [Fast AutoAugment] [INFO] save model@70 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 13:44:36,836] [Fast AutoAugment] [INFO] epoch=75 [train] loss=0.7457 top1=0.8332 [valid] loss=0.5668 top1=0.8020 [test] loss=0.3120 top1=0.8953 
+[2021-02-11 13:44:36,836] [Fast AutoAugment] [INFO] save model@75 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 13:49:21,839] [Fast AutoAugment] [INFO] epoch=80 [train] loss=0.7313 top1=0.8386 [valid] loss=0.5100 top1=0.8239 [test] loss=0.2612 top1=0.9093 
+[2021-02-11 13:49:21,839] [Fast AutoAugment] [INFO] save model@80 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 13:54:12,706] [Fast AutoAugment] [INFO] epoch=85 [train] loss=0.7077 top1=0.8475 [valid] loss=0.5150 top1=0.8214 [test] loss=0.2643 top1=0.9114 
+[2021-02-11 13:54:12,706] [Fast AutoAugment] [INFO] save model@85 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 13:59:05,371] [Fast AutoAugment] [INFO] epoch=90 [train] loss=0.6983 top1=0.8514 [valid] loss=0.5388 top1=0.8181 [test] loss=0.2698 top1=0.9105 
+[2021-02-11 13:59:05,371] [Fast AutoAugment] [INFO] save model@90 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:04:03,178] [Fast AutoAugment] [INFO] epoch=95 [train] loss=0.6779 top1=0.8562 [valid] loss=0.5300 top1=0.8167 [test] loss=0.2624 top1=0.9144 
+[2021-02-11 14:04:03,178] [Fast AutoAugment] [INFO] save model@95 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:08:46,454] [Fast AutoAugment] [INFO] epoch=100 [train] loss=0.6630 top1=0.8605 [valid] loss=0.5000 top1=0.8297 [test] loss=0.2625 top1=0.9148 
+[2021-02-11 14:08:46,454] [Fast AutoAugment] [INFO] save model@100 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:13:26,599] [Fast AutoAugment] [INFO] epoch=105 [train] loss=0.6388 top1=0.8689 [valid] loss=0.5423 top1=0.8177 [test] loss=0.2863 top1=0.9086 
+[2021-02-11 14:13:26,599] [Fast AutoAugment] [INFO] save model@105 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:18:12,285] [Fast AutoAugment] [INFO] epoch=110 [train] loss=0.6163 top1=0.8730 [valid] loss=0.4984 top1=0.8313 [test] loss=0.2573 top1=0.9191 
+[2021-02-11 14:18:12,285] [Fast AutoAugment] [INFO] save model@110 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:23:03,258] [Fast AutoAugment] [INFO] epoch=115 [train] loss=0.6076 top1=0.8768 [valid] loss=0.4874 top1=0.8360 [test] loss=0.2358 top1=0.9247 
+[2021-02-11 14:23:03,259] [Fast AutoAugment] [INFO] save model@115 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:27:54,367] [Fast AutoAugment] [INFO] epoch=120 [train] loss=0.5909 top1=0.8815 [valid] loss=0.4483 top1=0.8459 [test] loss=0.2455 top1=0.9192 
+[2021-02-11 14:27:54,367] [Fast AutoAugment] [INFO] save model@120 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:32:46,810] [Fast AutoAugment] [INFO] epoch=125 [train] loss=0.5599 top1=0.8891 [valid] loss=0.4396 top1=0.8505 [test] loss=0.2175 top1=0.9286 
+[2021-02-11 14:32:46,810] [Fast AutoAugment] [INFO] save model@125 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:37:41,808] [Fast AutoAugment] [INFO] epoch=130 [train] loss=0.5498 top1=0.8913 [valid] loss=0.4476 top1=0.8487 [test] loss=0.2374 top1=0.9248 
+[2021-02-11 14:37:41,808] [Fast AutoAugment] [INFO] save model@130 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:42:36,113] [Fast AutoAugment] [INFO] epoch=135 [train] loss=0.5199 top1=0.8983 [valid] loss=0.4416 top1=0.8497 [test] loss=0.2341 top1=0.9259 
+[2021-02-11 14:42:36,114] [Fast AutoAugment] [INFO] save model@135 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:47:28,762] [Fast AutoAugment] [INFO] epoch=140 [train] loss=0.4986 top1=0.9050 [valid] loss=0.4219 top1=0.8560 [test] loss=0.2325 top1=0.9271 
+[2021-02-11 14:47:28,762] [Fast AutoAugment] [INFO] save model@140 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:51:47,854] [Fast AutoAugment] [INFO] epoch=145 [train] loss=0.4751 top1=0.9111 [valid] loss=0.4161 top1=0.8619 [test] loss=0.2224 top1=0.9337 
+[2021-02-11 14:51:47,854] [Fast AutoAugment] [INFO] save model@145 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 14:56:08,577] [Fast AutoAugment] [INFO] epoch=150 [train] loss=0.4522 top1=0.9166 [valid] loss=0.4103 top1=0.8625 [test] loss=0.2096 top1=0.9356 
+[2021-02-11 14:56:08,577] [Fast AutoAugment] [INFO] save model@150 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:00:29,228] [Fast AutoAugment] [INFO] epoch=155 [train] loss=0.4362 top1=0.9212 [valid] loss=0.3930 top1=0.8711 [test] loss=0.2085 top1=0.9354 
+[2021-02-11 15:00:29,228] [Fast AutoAugment] [INFO] save model@155 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:04:50,059] [Fast AutoAugment] [INFO] epoch=160 [train] loss=0.4076 top1=0.9296 [valid] loss=0.3874 top1=0.8754 [test] loss=0.2018 top1=0.9391 
+[2021-02-11 15:04:50,060] [Fast AutoAugment] [INFO] save model@160 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:09:11,319] [Fast AutoAugment] [INFO] epoch=165 [train] loss=0.3844 top1=0.9357 [valid] loss=0.3775 top1=0.8766 [test] loss=0.2012 top1=0.9406 
+[2021-02-11 15:09:11,319] [Fast AutoAugment] [INFO] save model@165 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:13:32,247] [Fast AutoAugment] [INFO] epoch=170 [train] loss=0.3690 top1=0.9391 [valid] loss=0.3765 top1=0.8763 [test] loss=0.1933 top1=0.9441 
+[2021-02-11 15:13:32,247] [Fast AutoAugment] [INFO] save model@170 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:17:52,939] [Fast AutoAugment] [INFO] epoch=175 [train] loss=0.3550 top1=0.9438 [valid] loss=0.3830 top1=0.8772 [test] loss=0.2017 top1=0.9437 
+[2021-02-11 15:17:52,939] [Fast AutoAugment] [INFO] save model@175 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:22:13,730] [Fast AutoAugment] [INFO] epoch=180 [train] loss=0.3419 top1=0.9456 [valid] loss=0.3530 top1=0.8847 [test] loss=0.1898 top1=0.9447 
+[2021-02-11 15:22:13,730] [Fast AutoAugment] [INFO] save model@180 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:26:34,689] [Fast AutoAugment] [INFO] epoch=185 [train] loss=0.3287 top1=0.9498 [valid] loss=0.3372 top1=0.8938 [test] loss=0.1813 top1=0.9471 
+[2021-02-11 15:26:34,689] [Fast AutoAugment] [INFO] save model@185 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:30:55,766] [Fast AutoAugment] [INFO] epoch=190 [train] loss=0.3211 top1=0.9525 [valid] loss=0.3570 top1=0.8877 [test] loss=0.1861 top1=0.9468 
+[2021-02-11 15:30:55,766] [Fast AutoAugment] [INFO] save model@190 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:35:23,069] [Fast AutoAugment] [INFO] epoch=195 [train] loss=0.3074 top1=0.9577 [valid] loss=0.3540 top1=0.8873 [test] loss=0.1862 top1=0.9487 
+[2021-02-11 15:35:23,070] [Fast AutoAugment] [INFO] save model@195 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:39:51,896] [Fast AutoAugment] [INFO] epoch=200 [train] loss=0.3113 top1=0.9554 [valid] loss=0.3419 top1=0.8898 [test] loss=0.1871 top1=0.9477 
+[2021-02-11 15:39:51,896] [Fast AutoAugment] [INFO] save model@200 to models/cifar10wresnet40_2ratio0.4_fold1.model, err=1.0000
+[2021-02-11 15:40:07,003] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 15:40:07,004] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold2.model file found. loading...
+[2021-02-11 15:40:07,077] [Fast AutoAugment] [INFO] checkpoint epoch@5
+[2021-02-11 15:40:07,086] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 15:41:17,599] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.2847 top1=0.5940 [valid] loss=1.1229 top1=0.6022 [test] loss=0.7952 top1=0.7194 
+[2021-02-11 15:41:17,599] [Fast AutoAugment] [INFO] save model@5 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 15:45:41,450] [Fast AutoAugment] [INFO] epoch=10 [train] loss=1.0622 top1=0.6911 [valid] loss=0.9348 top1=0.6720 [test] loss=0.6330 top1=0.7877 
+[2021-02-11 15:45:41,450] [Fast AutoAugment] [INFO] save model@10 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 17:18:19,407] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 17:18:19,423] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-11 17:18:19,508] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-11 17:18:19,517] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 17:18:19,536] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 17:19:21,663] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 17:19:21,664] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-11 17:19:21,744] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-11 17:19:21,755] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 17:19:21,768] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-11 17:20:14,976] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 17:20:14,976] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold2.model file found. loading...
+[2021-02-11 17:20:15,056] [Fast AutoAugment] [INFO] checkpoint epoch@10
+[2021-02-11 17:20:15,065] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-11 17:21:33,474] [Fast AutoAugment] [INFO] epoch=10 [train] loss=1.0501 top1=0.6934 [valid] loss=0.8760 top1=0.6935 [test] loss=0.5934 top1=0.7971 
+[2021-02-11 17:21:33,474] [Fast AutoAugment] [INFO] save model@10 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 17:26:25,904] [Fast AutoAugment] [INFO] epoch=15 [train] loss=0.9696 top1=0.7327 [valid] loss=0.7999 top1=0.7227 [test] loss=0.5001 top1=0.8263 
+[2021-02-11 17:26:25,905] [Fast AutoAugment] [INFO] save model@15 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 17:30:59,957] [Fast AutoAugment] [INFO] epoch=20 [train] loss=0.9262 top1=0.7521 [valid] loss=0.7506 top1=0.7373 [test] loss=0.4566 top1=0.8441 
+[2021-02-11 17:30:59,957] [Fast AutoAugment] [INFO] save model@20 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 17:35:17,805] [Fast AutoAugment] [INFO] epoch=25 [train] loss=0.8903 top1=0.7696 [valid] loss=0.6988 top1=0.7587 [test] loss=0.4309 top1=0.8577 
+[2021-02-11 17:35:17,805] [Fast AutoAugment] [INFO] save model@25 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 17:39:41,526] [Fast AutoAugment] [INFO] epoch=30 [train] loss=0.8539 top1=0.7880 [valid] loss=0.6827 top1=0.7645 [test] loss=0.4009 top1=0.8647 
+[2021-02-11 17:39:41,526] [Fast AutoAugment] [INFO] save model@30 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 17:44:06,378] [Fast AutoAugment] [INFO] epoch=35 [train] loss=0.8483 top1=0.7904 [valid] loss=0.6491 top1=0.7734 [test] loss=0.3617 top1=0.8744 
+[2021-02-11 17:44:06,378] [Fast AutoAugment] [INFO] save model@35 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 17:48:30,555] [Fast AutoAugment] [INFO] epoch=40 [train] loss=0.8348 top1=0.8010 [valid] loss=0.6170 top1=0.7874 [test] loss=0.3515 top1=0.8826 
+[2021-02-11 17:48:30,555] [Fast AutoAugment] [INFO] save model@40 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 17:52:49,301] [Fast AutoAugment] [INFO] epoch=45 [train] loss=0.8097 top1=0.8093 [valid] loss=0.6548 top1=0.7784 [test] loss=0.3473 top1=0.8852 
+[2021-02-11 17:52:49,301] [Fast AutoAugment] [INFO] save model@45 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 17:57:16,546] [Fast AutoAugment] [INFO] epoch=50 [train] loss=0.8000 top1=0.8147 [valid] loss=0.6162 top1=0.7886 [test] loss=0.3391 top1=0.8876 
+[2021-02-11 17:57:16,546] [Fast AutoAugment] [INFO] save model@50 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:01:40,888] [Fast AutoAugment] [INFO] epoch=55 [train] loss=0.7903 top1=0.8197 [valid] loss=0.5983 top1=0.7914 [test] loss=0.3183 top1=0.8941 
+[2021-02-11 18:01:40,888] [Fast AutoAugment] [INFO] save model@55 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:06:08,802] [Fast AutoAugment] [INFO] epoch=60 [train] loss=0.7764 top1=0.8229 [valid] loss=0.5678 top1=0.8042 [test] loss=0.3024 top1=0.8970 
+[2021-02-11 18:06:08,802] [Fast AutoAugment] [INFO] save model@60 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:10:26,456] [Fast AutoAugment] [INFO] epoch=65 [train] loss=0.7551 top1=0.8343 [valid] loss=0.5972 top1=0.7941 [test] loss=0.3364 top1=0.8938 
+[2021-02-11 18:10:26,456] [Fast AutoAugment] [INFO] save model@65 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:14:50,933] [Fast AutoAugment] [INFO] epoch=70 [train] loss=0.7494 top1=0.8333 [valid] loss=0.5584 top1=0.8071 [test] loss=0.2892 top1=0.9049 
+[2021-02-11 18:14:50,933] [Fast AutoAugment] [INFO] save model@70 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:19:16,118] [Fast AutoAugment] [INFO] epoch=75 [train] loss=0.7285 top1=0.8409 [valid] loss=0.5632 top1=0.8076 [test] loss=0.2908 top1=0.9027 
+[2021-02-11 18:19:16,118] [Fast AutoAugment] [INFO] save model@75 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:23:43,316] [Fast AutoAugment] [INFO] epoch=80 [train] loss=0.7174 top1=0.8445 [valid] loss=0.5264 top1=0.8192 [test] loss=0.2973 top1=0.9007 
+[2021-02-11 18:23:43,316] [Fast AutoAugment] [INFO] save model@80 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:28:10,535] [Fast AutoAugment] [INFO] epoch=85 [train] loss=0.7035 top1=0.8512 [valid] loss=0.5260 top1=0.8197 [test] loss=0.2853 top1=0.9093 
+[2021-02-11 18:28:10,535] [Fast AutoAugment] [INFO] save model@85 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:32:37,087] [Fast AutoAugment] [INFO] epoch=90 [train] loss=0.6825 top1=0.8550 [valid] loss=0.5233 top1=0.8204 [test] loss=0.2700 top1=0.9104 
+[2021-02-11 18:32:37,087] [Fast AutoAugment] [INFO] save model@90 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:37:02,582] [Fast AutoAugment] [INFO] epoch=95 [train] loss=0.6789 top1=0.8568 [valid] loss=0.5024 top1=0.8278 [test] loss=0.2518 top1=0.9164 
+[2021-02-11 18:37:02,582] [Fast AutoAugment] [INFO] save model@95 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:41:20,484] [Fast AutoAugment] [INFO] epoch=100 [train] loss=0.6608 top1=0.8645 [valid] loss=0.5165 top1=0.8236 [test] loss=0.2730 top1=0.9095 
+[2021-02-11 18:41:20,484] [Fast AutoAugment] [INFO] save model@100 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:45:38,542] [Fast AutoAugment] [INFO] epoch=105 [train] loss=0.6339 top1=0.8710 [valid] loss=0.4805 top1=0.8364 [test] loss=0.2454 top1=0.9210 
+[2021-02-11 18:45:38,542] [Fast AutoAugment] [INFO] save model@105 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:50:09,820] [Fast AutoAugment] [INFO] epoch=110 [train] loss=0.6242 top1=0.8726 [valid] loss=0.4962 top1=0.8319 [test] loss=0.2501 top1=0.9204 
+[2021-02-11 18:50:09,820] [Fast AutoAugment] [INFO] save model@110 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:54:51,758] [Fast AutoAugment] [INFO] epoch=115 [train] loss=0.5988 top1=0.8800 [valid] loss=0.4746 top1=0.8360 [test] loss=0.2423 top1=0.9215 
+[2021-02-11 18:54:51,758] [Fast AutoAugment] [INFO] save model@115 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 18:59:33,870] [Fast AutoAugment] [INFO] epoch=120 [train] loss=0.5777 top1=0.8827 [valid] loss=0.4591 top1=0.8439 [test] loss=0.2463 top1=0.9238 
+[2021-02-11 18:59:33,870] [Fast AutoAugment] [INFO] save model@120 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:04:11,751] [Fast AutoAugment] [INFO] epoch=125 [train] loss=0.5601 top1=0.8888 [valid] loss=0.4531 top1=0.8447 [test] loss=0.2327 top1=0.9256 
+[2021-02-11 19:04:11,751] [Fast AutoAugment] [INFO] save model@125 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:08:46,469] [Fast AutoAugment] [INFO] epoch=130 [train] loss=0.5414 top1=0.8924 [valid] loss=0.4342 top1=0.8542 [test] loss=0.2198 top1=0.9300 
+[2021-02-11 19:08:46,469] [Fast AutoAugment] [INFO] save model@130 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:13:51,085] [Fast AutoAugment] [INFO] epoch=135 [train] loss=0.5184 top1=0.8987 [valid] loss=0.4292 top1=0.8556 [test] loss=0.2252 top1=0.9311 
+[2021-02-11 19:13:51,085] [Fast AutoAugment] [INFO] save model@135 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:18:45,041] [Fast AutoAugment] [INFO] epoch=140 [train] loss=0.4981 top1=0.9048 [valid] loss=0.4195 top1=0.8570 [test] loss=0.2101 top1=0.9359 
+[2021-02-11 19:18:45,041] [Fast AutoAugment] [INFO] save model@140 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:23:41,183] [Fast AutoAugment] [INFO] epoch=145 [train] loss=0.4729 top1=0.9119 [valid] loss=0.4152 top1=0.8606 [test] loss=0.2019 top1=0.9391 
+[2021-02-11 19:23:41,184] [Fast AutoAugment] [INFO] save model@145 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:28:33,939] [Fast AutoAugment] [INFO] epoch=150 [train] loss=0.4468 top1=0.9199 [valid] loss=0.3938 top1=0.8712 [test] loss=0.2062 top1=0.9370 
+[2021-02-11 19:28:33,939] [Fast AutoAugment] [INFO] save model@150 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:33:40,158] [Fast AutoAugment] [INFO] epoch=155 [train] loss=0.4294 top1=0.9226 [valid] loss=0.3923 top1=0.8714 [test] loss=0.1928 top1=0.9413 
+[2021-02-11 19:33:40,159] [Fast AutoAugment] [INFO] save model@155 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:38:49,069] [Fast AutoAugment] [INFO] epoch=160 [train] loss=0.4042 top1=0.9301 [valid] loss=0.3710 top1=0.8768 [test] loss=0.1957 top1=0.9433 
+[2021-02-11 19:38:49,070] [Fast AutoAugment] [INFO] save model@160 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:43:49,070] [Fast AutoAugment] [INFO] epoch=165 [train] loss=0.3843 top1=0.9356 [valid] loss=0.3794 top1=0.8753 [test] loss=0.1970 top1=0.9426 
+[2021-02-11 19:43:49,071] [Fast AutoAugment] [INFO] save model@165 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:48:51,333] [Fast AutoAugment] [INFO] epoch=170 [train] loss=0.3635 top1=0.9406 [valid] loss=0.3734 top1=0.8793 [test] loss=0.2054 top1=0.9426 
+[2021-02-11 19:48:51,334] [Fast AutoAugment] [INFO] save model@170 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:53:54,714] [Fast AutoAugment] [INFO] epoch=175 [train] loss=0.3436 top1=0.9469 [valid] loss=0.3500 top1=0.8873 [test] loss=0.1972 top1=0.9479 
+[2021-02-11 19:53:54,714] [Fast AutoAugment] [INFO] save model@175 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 19:58:56,214] [Fast AutoAugment] [INFO] epoch=180 [train] loss=0.3367 top1=0.9486 [valid] loss=0.3532 top1=0.8889 [test] loss=0.2000 top1=0.9461 
+[2021-02-11 19:58:56,215] [Fast AutoAugment] [INFO] save model@180 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 20:03:54,845] [Fast AutoAugment] [INFO] epoch=185 [train] loss=0.3256 top1=0.9504 [valid] loss=0.3337 top1=0.8953 [test] loss=0.1838 top1=0.9471 
+[2021-02-11 20:03:54,845] [Fast AutoAugment] [INFO] save model@185 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 20:08:54,184] [Fast AutoAugment] [INFO] epoch=190 [train] loss=0.3187 top1=0.9543 [valid] loss=0.3330 top1=0.8948 [test] loss=0.1740 top1=0.9514 
+[2021-02-11 20:08:54,185] [Fast AutoAugment] [INFO] save model@190 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 20:13:40,421] [Fast AutoAugment] [INFO] epoch=195 [train] loss=0.3048 top1=0.9580 [valid] loss=0.3438 top1=0.8905 [test] loss=0.1851 top1=0.9499 
+[2021-02-11 20:13:40,421] [Fast AutoAugment] [INFO] save model@195 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 20:18:30,250] [Fast AutoAugment] [INFO] epoch=200 [train] loss=0.3060 top1=0.9580 [valid] loss=0.3327 top1=0.8931 [test] loss=0.1734 top1=0.9524 
+[2021-02-11 20:18:30,250] [Fast AutoAugment] [INFO] save model@200 to models/cifar10wresnet40_2ratio0.4_fold2.model, err=1.0000
+[2021-02-11 20:19:12,866] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-11 20:19:12,867] [Fast AutoAugment] [INFO] "models/cifar10wresnet40_2ratio0.4_fold3.model" file not found. skip to pretrain weights...
+[2021-02-11 20:23:49,182] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3641 top1=0.5609 [valid] loss=1.2346 top1=0.5608 [test] loss=0.9462 top1=0.6745 
+[2021-02-11 20:23:49,182] [Fast AutoAugment] [INFO] save model@5 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:10:20,909] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 08:10:20,949] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-12 08:10:21,715] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 08:10:21,761] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 08:10:21,868] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 08:12:05,537] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 08:12:05,537] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-12 08:12:05,631] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 08:12:05,642] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 08:12:05,657] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 08:13:09,951] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 08:13:09,951] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold2.model file found. loading...
+[2021-02-12 08:13:10,039] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 08:13:10,049] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 08:13:10,062] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 08:14:04,296] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 08:14:04,297] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold3.model file found. loading...
+[2021-02-12 08:14:04,410] [Fast AutoAugment] [INFO] checkpoint epoch@5
+[2021-02-12 08:14:04,427] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 08:15:23,736] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.2756 top1=0.6004 [valid] loss=1.1551 top1=0.5935 [test] loss=0.8924 top1=0.6932 
+[2021-02-12 08:15:23,736] [Fast AutoAugment] [INFO] save model@5 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:20:19,431] [Fast AutoAugment] [INFO] epoch=10 [train] loss=1.0685 top1=0.6871 [valid] loss=0.8557 top1=0.6952 [test] loss=0.5572 top1=0.8046 
+[2021-02-12 08:20:19,431] [Fast AutoAugment] [INFO] save model@10 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:25:12,767] [Fast AutoAugment] [INFO] epoch=15 [train] loss=0.9824 top1=0.7266 [valid] loss=0.8063 top1=0.7165 [test] loss=0.5332 top1=0.8149 
+[2021-02-12 08:25:12,767] [Fast AutoAugment] [INFO] save model@15 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:29:59,023] [Fast AutoAugment] [INFO] epoch=20 [train] loss=0.9326 top1=0.7484 [valid] loss=0.7219 top1=0.7452 [test] loss=0.4594 top1=0.8462 
+[2021-02-12 08:29:59,023] [Fast AutoAugment] [INFO] save model@20 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:34:45,841] [Fast AutoAugment] [INFO] epoch=25 [train] loss=0.8977 top1=0.7676 [valid] loss=0.6932 top1=0.7567 [test] loss=0.4258 top1=0.8580 
+[2021-02-12 08:34:45,841] [Fast AutoAugment] [INFO] save model@25 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:39:21,273] [Fast AutoAugment] [INFO] epoch=30 [train] loss=0.8840 top1=0.7735 [valid] loss=0.7183 top1=0.7498 [test] loss=0.4350 top1=0.8534 
+[2021-02-12 08:39:21,273] [Fast AutoAugment] [INFO] save model@30 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:44:04,211] [Fast AutoAugment] [INFO] epoch=35 [train] loss=0.8630 top1=0.7839 [valid] loss=0.6702 top1=0.7688 [test] loss=0.4031 top1=0.8697 
+[2021-02-12 08:44:04,211] [Fast AutoAugment] [INFO] save model@35 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:48:50,746] [Fast AutoAugment] [INFO] epoch=40 [train] loss=0.8311 top1=0.7993 [valid] loss=0.6132 top1=0.7847 [test] loss=0.3333 top1=0.8830 
+[2021-02-12 08:48:50,746] [Fast AutoAugment] [INFO] save model@40 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:53:33,496] [Fast AutoAugment] [INFO] epoch=45 [train] loss=0.8258 top1=0.8030 [valid] loss=0.6575 top1=0.7748 [test] loss=0.3745 top1=0.8761 
+[2021-02-12 08:53:33,497] [Fast AutoAugment] [INFO] save model@45 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 08:58:03,255] [Fast AutoAugment] [INFO] epoch=50 [train] loss=0.8017 top1=0.8115 [valid] loss=0.5998 top1=0.7929 [test] loss=0.3338 top1=0.8855 
+[2021-02-12 08:58:03,255] [Fast AutoAugment] [INFO] save model@50 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:02:33,554] [Fast AutoAugment] [INFO] epoch=55 [train] loss=0.7899 top1=0.8198 [valid] loss=0.6095 top1=0.7873 [test] loss=0.3308 top1=0.8872 
+[2021-02-12 09:02:33,555] [Fast AutoAugment] [INFO] save model@55 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:06:57,816] [Fast AutoAugment] [INFO] epoch=60 [train] loss=0.7728 top1=0.8242 [valid] loss=0.5917 top1=0.7945 [test] loss=0.3328 top1=0.8898 
+[2021-02-12 09:06:57,816] [Fast AutoAugment] [INFO] save model@60 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:11:17,312] [Fast AutoAugment] [INFO] epoch=65 [train] loss=0.7596 top1=0.8310 [valid] loss=0.5660 top1=0.8066 [test] loss=0.3101 top1=0.8955 
+[2021-02-12 09:11:17,312] [Fast AutoAugment] [INFO] save model@65 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:15:43,130] [Fast AutoAugment] [INFO] epoch=70 [train] loss=0.7441 top1=0.8330 [valid] loss=0.5465 top1=0.8097 [test] loss=0.3167 top1=0.8923 
+[2021-02-12 09:15:43,130] [Fast AutoAugment] [INFO] save model@70 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:20:07,992] [Fast AutoAugment] [INFO] epoch=75 [train] loss=0.7390 top1=0.8356 [valid] loss=0.5583 top1=0.8098 [test] loss=0.2979 top1=0.8973 
+[2021-02-12 09:20:07,992] [Fast AutoAugment] [INFO] save model@75 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:24:37,400] [Fast AutoAugment] [INFO] epoch=80 [train] loss=0.7236 top1=0.8423 [valid] loss=0.5551 top1=0.8076 [test] loss=0.3077 top1=0.9007 
+[2021-02-12 09:24:37,400] [Fast AutoAugment] [INFO] save model@80 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:29:26,987] [Fast AutoAugment] [INFO] epoch=85 [train] loss=0.7069 top1=0.8453 [valid] loss=0.5099 top1=0.8266 [test] loss=0.2722 top1=0.9088 
+[2021-02-12 09:29:26,987] [Fast AutoAugment] [INFO] save model@85 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:34:10,099] [Fast AutoAugment] [INFO] epoch=90 [train] loss=0.6871 top1=0.8529 [valid] loss=0.5092 top1=0.8265 [test] loss=0.2926 top1=0.9058 
+[2021-02-12 09:34:10,099] [Fast AutoAugment] [INFO] save model@90 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:38:51,929] [Fast AutoAugment] [INFO] epoch=95 [train] loss=0.6783 top1=0.8547 [valid] loss=0.5215 top1=0.8259 [test] loss=0.2658 top1=0.9171 
+[2021-02-12 09:38:51,929] [Fast AutoAugment] [INFO] save model@95 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:43:32,687] [Fast AutoAugment] [INFO] epoch=100 [train] loss=0.6687 top1=0.8578 [valid] loss=0.5103 top1=0.8276 [test] loss=0.2667 top1=0.9120 
+[2021-02-12 09:43:32,687] [Fast AutoAugment] [INFO] save model@100 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:48:14,258] [Fast AutoAugment] [INFO] epoch=105 [train] loss=0.6362 top1=0.8673 [valid] loss=0.4848 top1=0.8377 [test] loss=0.2415 top1=0.9200 
+[2021-02-12 09:48:14,258] [Fast AutoAugment] [INFO] save model@105 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:53:00,274] [Fast AutoAugment] [INFO] epoch=110 [train] loss=0.6165 top1=0.8741 [valid] loss=0.4838 top1=0.8348 [test] loss=0.2481 top1=0.9207 
+[2021-02-12 09:53:00,274] [Fast AutoAugment] [INFO] save model@110 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 09:57:43,682] [Fast AutoAugment] [INFO] epoch=115 [train] loss=0.6070 top1=0.8769 [valid] loss=0.4619 top1=0.8430 [test] loss=0.2332 top1=0.9247 
+[2021-02-12 09:57:43,682] [Fast AutoAugment] [INFO] save model@115 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:02:30,504] [Fast AutoAugment] [INFO] epoch=120 [train] loss=0.5832 top1=0.8815 [valid] loss=0.4701 top1=0.8398 [test] loss=0.2275 top1=0.9282 
+[2021-02-12 10:02:30,504] [Fast AutoAugment] [INFO] save model@120 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:07:13,319] [Fast AutoAugment] [INFO] epoch=125 [train] loss=0.5662 top1=0.8871 [valid] loss=0.4350 top1=0.8547 [test] loss=0.2360 top1=0.9253 
+[2021-02-12 10:07:13,319] [Fast AutoAugment] [INFO] save model@125 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:11:59,023] [Fast AutoAugment] [INFO] epoch=130 [train] loss=0.5460 top1=0.8904 [valid] loss=0.4480 top1=0.8492 [test] loss=0.2155 top1=0.9308 
+[2021-02-12 10:11:59,023] [Fast AutoAugment] [INFO] save model@130 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:16:43,862] [Fast AutoAugment] [INFO] epoch=135 [train] loss=0.5241 top1=0.8968 [valid] loss=0.4286 top1=0.8554 [test] loss=0.2152 top1=0.9323 
+[2021-02-12 10:16:43,862] [Fast AutoAugment] [INFO] save model@135 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:21:26,397] [Fast AutoAugment] [INFO] epoch=140 [train] loss=0.5026 top1=0.9033 [valid] loss=0.4198 top1=0.8581 [test] loss=0.2189 top1=0.9312 
+[2021-02-12 10:21:26,397] [Fast AutoAugment] [INFO] save model@140 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:26:08,173] [Fast AutoAugment] [INFO] epoch=145 [train] loss=0.4790 top1=0.9106 [valid] loss=0.4110 top1=0.8607 [test] loss=0.2002 top1=0.9373 
+[2021-02-12 10:26:08,173] [Fast AutoAugment] [INFO] save model@145 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:30:53,929] [Fast AutoAugment] [INFO] epoch=150 [train] loss=0.4556 top1=0.9150 [valid] loss=0.3980 top1=0.8683 [test] loss=0.2188 top1=0.9342 
+[2021-02-12 10:30:53,929] [Fast AutoAugment] [INFO] save model@150 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:35:36,975] [Fast AutoAugment] [INFO] epoch=155 [train] loss=0.4264 top1=0.9249 [valid] loss=0.4021 top1=0.8681 [test] loss=0.1908 top1=0.9403 
+[2021-02-12 10:35:36,975] [Fast AutoAugment] [INFO] save model@155 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:40:19,686] [Fast AutoAugment] [INFO] epoch=160 [train] loss=0.4125 top1=0.9267 [valid] loss=0.3872 top1=0.8708 [test] loss=0.1996 top1=0.9408 
+[2021-02-12 10:40:19,686] [Fast AutoAugment] [INFO] save model@160 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:45:04,726] [Fast AutoAugment] [INFO] epoch=165 [train] loss=0.3895 top1=0.9327 [valid] loss=0.3630 top1=0.8808 [test] loss=0.1912 top1=0.9453 
+[2021-02-12 10:45:04,727] [Fast AutoAugment] [INFO] save model@165 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:49:51,113] [Fast AutoAugment] [INFO] epoch=170 [train] loss=0.3705 top1=0.9391 [valid] loss=0.3769 top1=0.8751 [test] loss=0.1860 top1=0.9433 
+[2021-02-12 10:49:51,114] [Fast AutoAugment] [INFO] save model@170 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:54:36,264] [Fast AutoAugment] [INFO] epoch=175 [train] loss=0.3568 top1=0.9428 [valid] loss=0.3670 top1=0.8840 [test] loss=0.1973 top1=0.9448 
+[2021-02-12 10:54:36,264] [Fast AutoAugment] [INFO] save model@175 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 10:59:19,993] [Fast AutoAugment] [INFO] epoch=180 [train] loss=0.3387 top1=0.9468 [valid] loss=0.3529 top1=0.8887 [test] loss=0.1821 top1=0.9469 
+[2021-02-12 10:59:19,993] [Fast AutoAugment] [INFO] save model@180 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 11:04:03,227] [Fast AutoAugment] [INFO] epoch=185 [train] loss=0.3280 top1=0.9498 [valid] loss=0.3495 top1=0.8884 [test] loss=0.1793 top1=0.9507 
+[2021-02-12 11:04:03,227] [Fast AutoAugment] [INFO] save model@185 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 11:08:47,071] [Fast AutoAugment] [INFO] epoch=190 [train] loss=0.3220 top1=0.9528 [valid] loss=0.3496 top1=0.8874 [test] loss=0.1800 top1=0.9491 
+[2021-02-12 11:08:47,071] [Fast AutoAugment] [INFO] save model@190 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 11:13:29,923] [Fast AutoAugment] [INFO] epoch=195 [train] loss=0.3147 top1=0.9547 [valid] loss=0.3290 top1=0.8984 [test] loss=0.1682 top1=0.9544 
+[2021-02-12 11:13:29,923] [Fast AutoAugment] [INFO] save model@195 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 11:18:11,600] [Fast AutoAugment] [INFO] epoch=200 [train] loss=0.3098 top1=0.9556 [valid] loss=0.3353 top1=0.8910 [test] loss=0.1655 top1=0.9544 
+[2021-02-12 11:18:11,600] [Fast AutoAugment] [INFO] save model@200 to models/cifar10wresnet40_2ratio0.4_fold3.model, err=1.0000
+[2021-02-12 11:18:33,147] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 11:18:33,147] [Fast AutoAugment] [INFO] "models/cifar10wresnet40_2ratio0.4_fold4.model" file not found. skip to pretrain weights...
+[2021-02-12 11:23:12,009] [Fast AutoAugment] [INFO] epoch=5 [train] loss=1.3484 top1=0.5694 [valid] loss=1.1955 top1=0.5779 [test] loss=0.9329 top1=0.6806 
+[2021-02-12 11:23:12,009] [Fast AutoAugment] [INFO] save model@5 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 11:27:44,158] [Fast AutoAugment] [INFO] epoch=10 [train] loss=1.0897 top1=0.6803 [valid] loss=0.9636 top1=0.6652 [test] loss=0.6780 top1=0.7681 
+[2021-02-12 11:27:44,158] [Fast AutoAugment] [INFO] save model@10 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 11:32:16,424] [Fast AutoAugment] [INFO] epoch=15 [train] loss=0.9909 top1=0.7220 [valid] loss=0.8087 top1=0.7185 [test] loss=0.5261 top1=0.8240 
+[2021-02-12 11:32:16,424] [Fast AutoAugment] [INFO] save model@15 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 11:36:49,076] [Fast AutoAugment] [INFO] epoch=20 [train] loss=0.9404 top1=0.7451 [valid] loss=0.7622 top1=0.7370 [test] loss=0.4506 top1=0.8477 
+[2021-02-12 11:36:49,076] [Fast AutoAugment] [INFO] save model@20 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 11:41:26,461] [Fast AutoAugment] [INFO] epoch=25 [train] loss=0.9038 top1=0.7647 [valid] loss=0.6937 top1=0.7601 [test] loss=0.4418 top1=0.8522 
+[2021-02-12 11:41:26,461] [Fast AutoAugment] [INFO] save model@25 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 11:46:06,604] [Fast AutoAugment] [INFO] epoch=30 [train] loss=0.8761 top1=0.7765 [valid] loss=0.6779 top1=0.7620 [test] loss=0.3963 top1=0.8672 
+[2021-02-12 11:46:06,604] [Fast AutoAugment] [INFO] save model@30 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 11:50:45,141] [Fast AutoAugment] [INFO] epoch=35 [train] loss=0.8536 top1=0.7864 [valid] loss=0.6769 top1=0.7699 [test] loss=0.3917 top1=0.8661 
+[2021-02-12 11:50:45,141] [Fast AutoAugment] [INFO] save model@35 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 11:55:23,649] [Fast AutoAugment] [INFO] epoch=40 [train] loss=0.8385 top1=0.7974 [valid] loss=0.6283 top1=0.7827 [test] loss=0.3573 top1=0.8768 
+[2021-02-12 11:55:23,649] [Fast AutoAugment] [INFO] save model@40 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:00:02,874] [Fast AutoAugment] [INFO] epoch=45 [train] loss=0.8166 top1=0.8053 [valid] loss=0.6224 top1=0.7830 [test] loss=0.3502 top1=0.8799 
+[2021-02-12 12:00:02,874] [Fast AutoAugment] [INFO] save model@45 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:04:39,190] [Fast AutoAugment] [INFO] epoch=50 [train] loss=0.8059 top1=0.8120 [valid] loss=0.6029 top1=0.7936 [test] loss=0.3409 top1=0.8876 
+[2021-02-12 12:04:39,190] [Fast AutoAugment] [INFO] save model@50 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:09:15,561] [Fast AutoAugment] [INFO] epoch=55 [train] loss=0.7892 top1=0.8192 [valid] loss=0.6188 top1=0.7863 [test] loss=0.3491 top1=0.8803 
+[2021-02-12 12:09:15,561] [Fast AutoAugment] [INFO] save model@55 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:13:57,046] [Fast AutoAugment] [INFO] epoch=60 [train] loss=0.7815 top1=0.8222 [valid] loss=0.5834 top1=0.8008 [test] loss=0.3132 top1=0.8934 
+[2021-02-12 12:13:57,046] [Fast AutoAugment] [INFO] save model@60 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:18:40,500] [Fast AutoAugment] [INFO] epoch=65 [train] loss=0.7655 top1=0.8288 [valid] loss=0.5690 top1=0.8044 [test] loss=0.3181 top1=0.8939 
+[2021-02-12 12:18:40,500] [Fast AutoAugment] [INFO] save model@65 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:23:27,086] [Fast AutoAugment] [INFO] epoch=70 [train] loss=0.7531 top1=0.8326 [valid] loss=0.5442 top1=0.8121 [test] loss=0.3021 top1=0.8975 
+[2021-02-12 12:23:27,087] [Fast AutoAugment] [INFO] save model@70 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:28:16,813] [Fast AutoAugment] [INFO] epoch=75 [train] loss=0.7368 top1=0.8375 [valid] loss=0.5787 top1=0.7984 [test] loss=0.3005 top1=0.8987 
+[2021-02-12 12:28:16,813] [Fast AutoAugment] [INFO] save model@75 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:33:02,700] [Fast AutoAugment] [INFO] epoch=80 [train] loss=0.7260 top1=0.8423 [valid] loss=0.5530 top1=0.8115 [test] loss=0.3009 top1=0.8994 
+[2021-02-12 12:33:02,700] [Fast AutoAugment] [INFO] save model@80 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:37:32,604] [Fast AutoAugment] [INFO] epoch=85 [train] loss=0.7054 top1=0.8480 [valid] loss=0.5392 top1=0.8144 [test] loss=0.2841 top1=0.9059 
+[2021-02-12 12:37:32,605] [Fast AutoAugment] [INFO] save model@85 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:42:24,937] [Fast AutoAugment] [INFO] epoch=90 [train] loss=0.6915 top1=0.8538 [valid] loss=0.4894 top1=0.8309 [test] loss=0.2543 top1=0.9130 
+[2021-02-12 12:42:24,938] [Fast AutoAugment] [INFO] save model@90 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:47:22,934] [Fast AutoAugment] [INFO] epoch=95 [train] loss=0.6767 top1=0.8555 [valid] loss=0.4976 top1=0.8249 [test] loss=0.2540 top1=0.9120 
+[2021-02-12 12:47:22,934] [Fast AutoAugment] [INFO] save model@95 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 12:52:16,875] [Fast AutoAugment] [INFO] epoch=100 [train] loss=0.6574 top1=0.8634 [valid] loss=0.4899 top1=0.8346 [test] loss=0.2556 top1=0.9173 
+[2021-02-12 12:52:16,875] [Fast AutoAugment] [INFO] save model@100 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 15:16:55,677] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 15:16:55,708] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-12 15:16:56,595] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 15:16:56,626] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 15:16:56,695] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 15:18:11,651] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 15:18:11,651] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-12 15:18:11,751] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 15:18:11,751] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 15:18:11,767] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 15:19:04,413] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 15:19:04,413] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold2.model file found. loading...
+[2021-02-12 15:19:04,476] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 15:19:04,498] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 15:19:04,498] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 15:19:57,636] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 15:19:57,636] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold3.model file found. loading...
+[2021-02-12 15:19:57,714] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 15:19:57,729] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 15:19:57,736] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 15:20:50,420] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 15:20:50,420] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold4.model file found. loading...
+[2021-02-12 15:20:50,504] [Fast AutoAugment] [INFO] checkpoint epoch@100
+[2021-02-12 15:20:50,504] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 15:22:07,426] [Fast AutoAugment] [INFO] epoch=100 [train] loss=0.6615 top1=0.8604 [valid] loss=0.4808 top1=0.8330 [test] loss=0.2611 top1=0.9137 
+[2021-02-12 15:22:07,426] [Fast AutoAugment] [INFO] save model@100 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 15:26:44,275] [Fast AutoAugment] [INFO] epoch=105 [train] loss=0.6416 top1=0.8668 [valid] loss=0.4625 top1=0.8407 [test] loss=0.2456 top1=0.9179 
+[2021-02-12 15:26:44,275] [Fast AutoAugment] [INFO] save model@105 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 15:31:19,853] [Fast AutoAugment] [INFO] epoch=110 [train] loss=0.6242 top1=0.8734 [valid] loss=0.4832 top1=0.8345 [test] loss=0.2501 top1=0.9174 
+[2021-02-12 15:31:19,853] [Fast AutoAugment] [INFO] save model@110 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 15:35:54,586] [Fast AutoAugment] [INFO] epoch=115 [train] loss=0.6109 top1=0.8763 [valid] loss=0.4705 top1=0.8381 [test] loss=0.2393 top1=0.9217 
+[2021-02-12 15:35:54,586] [Fast AutoAugment] [INFO] save model@115 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 15:40:30,853] [Fast AutoAugment] [INFO] epoch=120 [train] loss=0.5858 top1=0.8820 [valid] loss=0.4666 top1=0.8414 [test] loss=0.2494 top1=0.9226 
+[2021-02-12 15:40:30,853] [Fast AutoAugment] [INFO] save model@120 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 15:45:05,629] [Fast AutoAugment] [INFO] epoch=125 [train] loss=0.5642 top1=0.8887 [valid] loss=0.4418 top1=0.8524 [test] loss=0.2348 top1=0.9282 
+[2021-02-12 15:45:05,630] [Fast AutoAugment] [INFO] save model@125 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 15:49:49,278] [Fast AutoAugment] [INFO] epoch=130 [train] loss=0.5446 top1=0.8932 [valid] loss=0.4398 top1=0.8519 [test] loss=0.2264 top1=0.9294 
+[2021-02-12 15:49:49,278] [Fast AutoAugment] [INFO] save model@130 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 15:54:29,327] [Fast AutoAugment] [INFO] epoch=135 [train] loss=0.5233 top1=0.8986 [valid] loss=0.4430 top1=0.8521 [test] loss=0.2265 top1=0.9270 
+[2021-02-12 15:54:29,327] [Fast AutoAugment] [INFO] save model@135 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 15:59:16,638] [Fast AutoAugment] [INFO] epoch=140 [train] loss=0.4988 top1=0.9061 [valid] loss=0.4254 top1=0.8597 [test] loss=0.2188 top1=0.9293 
+[2021-02-12 15:59:16,639] [Fast AutoAugment] [INFO] save model@140 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:04:07,447] [Fast AutoAugment] [INFO] epoch=145 [train] loss=0.4843 top1=0.9075 [valid] loss=0.4187 top1=0.8580 [test] loss=0.2108 top1=0.9335 
+[2021-02-12 16:04:07,447] [Fast AutoAugment] [INFO] save model@145 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:08:46,519] [Fast AutoAugment] [INFO] epoch=150 [train] loss=0.4565 top1=0.9156 [valid] loss=0.4094 top1=0.8656 [test] loss=0.2111 top1=0.9356 
+[2021-02-12 16:08:46,519] [Fast AutoAugment] [INFO] save model@150 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:13:24,749] [Fast AutoAugment] [INFO] epoch=155 [train] loss=0.4291 top1=0.9239 [valid] loss=0.3932 top1=0.8711 [test] loss=0.2051 top1=0.9393 
+[2021-02-12 16:13:24,749] [Fast AutoAugment] [INFO] save model@155 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:18:23,821] [Fast AutoAugment] [INFO] epoch=160 [train] loss=0.4120 top1=0.9275 [valid] loss=0.3716 top1=0.8783 [test] loss=0.1906 top1=0.9410 
+[2021-02-12 16:18:23,821] [Fast AutoAugment] [INFO] save model@160 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:23:53,977] [Fast AutoAugment] [INFO] epoch=165 [train] loss=0.3955 top1=0.9331 [valid] loss=0.3775 top1=0.8742 [test] loss=0.2029 top1=0.9422 
+[2021-02-12 16:23:53,977] [Fast AutoAugment] [INFO] save model@165 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:29:09,355] [Fast AutoAugment] [INFO] epoch=170 [train] loss=0.3736 top1=0.9383 [valid] loss=0.3622 top1=0.8812 [test] loss=0.1939 top1=0.9444 
+[2021-02-12 16:29:09,355] [Fast AutoAugment] [INFO] save model@170 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:34:02,163] [Fast AutoAugment] [INFO] epoch=175 [train] loss=0.3542 top1=0.9446 [valid] loss=0.3526 top1=0.8828 [test] loss=0.1906 top1=0.9463 
+[2021-02-12 16:34:02,163] [Fast AutoAugment] [INFO] save model@175 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:38:50,750] [Fast AutoAugment] [INFO] epoch=180 [train] loss=0.3466 top1=0.9440 [valid] loss=0.3444 top1=0.8881 [test] loss=0.1862 top1=0.9473 
+[2021-02-12 16:38:50,750] [Fast AutoAugment] [INFO] save model@180 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:44:07,614] [Fast AutoAugment] [INFO] epoch=185 [train] loss=0.3277 top1=0.9511 [valid] loss=0.3521 top1=0.8854 [test] loss=0.1860 top1=0.9462 
+[2021-02-12 16:44:07,614] [Fast AutoAugment] [INFO] save model@185 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:49:23,067] [Fast AutoAugment] [INFO] epoch=190 [train] loss=0.3243 top1=0.9521 [valid] loss=0.3322 top1=0.8931 [test] loss=0.1771 top1=0.9507 
+[2021-02-12 16:49:23,067] [Fast AutoAugment] [INFO] save model@190 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:54:40,336] [Fast AutoAugment] [INFO] epoch=195 [train] loss=0.3062 top1=0.9586 [valid] loss=0.3424 top1=0.8930 [test] loss=0.1863 top1=0.9502 
+[2021-02-12 16:54:40,337] [Fast AutoAugment] [INFO] save model@195 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 16:59:57,303] [Fast AutoAugment] [INFO] epoch=200 [train] loss=0.3087 top1=0.9574 [valid] loss=0.3248 top1=0.8964 [test] loss=0.1827 top1=0.9494 
+[2021-02-12 16:59:57,304] [Fast AutoAugment] [INFO] save model@200 to models/cifar10wresnet40_2ratio0.4_fold4.model, err=1.0000
+[2021-02-12 17:30:27,012] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 17:30:27,016] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold0.model file found. loading...
+[2021-02-12 17:30:27,121] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 17:30:27,133] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 17:30:27,157] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 17:31:31,933] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 17:31:31,934] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold1.model file found. loading...
+[2021-02-12 17:31:32,022] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 17:31:32,031] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 17:31:32,044] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 17:32:27,721] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 17:32:27,721] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold2.model file found. loading...
+[2021-02-12 17:32:27,816] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 17:32:27,826] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 17:32:27,838] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 17:33:24,291] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 17:33:24,292] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold3.model file found. loading...
+[2021-02-12 17:33:24,381] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 17:33:24,391] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 17:33:24,405] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-12 17:34:20,647] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-12 17:34:20,648] [Fast AutoAugment] [INFO] models/cifar10wresnet40_2ratio0.4_fold4.model file found. loading...
+[2021-02-12 17:34:20,740] [Fast AutoAugment] [INFO] checkpoint epoch@200
+[2021-02-12 17:34:20,752] [Fast AutoAugment] [INFO] optimizer.load_state_dict+
+[2021-02-12 17:34:20,766] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-25 10:05:06,879] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-25 10:05:49,148] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-25 10:05:49,150] [Fast AutoAugment] [INFO] evaluation only+
+[2021-02-25 10:06:33,466] [Fast AutoAugment] [INFO] done.
+[2021-02-25 10:06:33,497] [Fast AutoAugment] [INFO] model: {'type': 'wresnet40_2'}
+[2021-02-25 10:06:33,497] [Fast AutoAugment] [INFO] augmentation: fa_reduced_cifar10
+[2021-02-25 10:06:33,498] [Fast AutoAugment] [INFO] 
+{
+    "loss_train": 2.307997173529405,
+    "loss_valid": 0.0,
+    "loss_test": 2.3066829582214354,
+    "top1_train": 0.09973958333333334,
+    "top1_valid": 0.0,
+    "top1_test": 0.0958,
+    "top5_train": 0.5001201923076923,
+    "top5_valid": 0.0,
+    "top5_test": 0.4985,
+    "epoch": 0
+}
+[2021-02-25 10:06:33,498] [Fast AutoAugment] [INFO] elapsed time: 0.013 Hours
+[2021-02-25 10:06:33,499] [Fast AutoAugment] [INFO] top1 error in testset: 0.9042
+[2021-02-25 10:06:33,500] [Fast AutoAugment] [INFO] test.pth

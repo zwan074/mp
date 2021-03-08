@@ -1,0 +1,3 @@
+[2021-02-10 10:55:30,544] [Fast AutoAugment] [WARNING] tag not provided, no tensorboard log.
+[2021-02-10 10:55:30,544] [Fast AutoAugment] [INFO] "arguments" file not found. skip to pretrain weights...
+[2021-02-10 10:55:30,544] [Fast AutoAugment] [WARNING] model checkpoint not found. only-evaluation mode is off.
